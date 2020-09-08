@@ -12,6 +12,11 @@ html, body{
   font-family: 'poppins',sans-serif;
 }
 
+
+.navbar-brand img{
+  height: 50px;
+}
+
 .navbar{
   padding: .8rem;
 }
